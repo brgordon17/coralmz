@@ -1,0 +1,17 @@
+Package: coralmz
+Type: Package
+Title: Database of Coral Mass Spectral Features
+Version: 0.0.0.9000
+Authors@R: person("Benjamin", "Gordon", email = "brgordon17@gmail.com",
+role = c("aut", "cre")), person("Cherie", "Motti", email = "c.motti@aims.gov.au",
+role = c("aut"))
+Description: This package contains a database of coral mass spectral features
+published in the coral and natural products research literature. Coralmz was
+developed for Benjamin R. Gordon's Ph.D. thesis. All features have a minimum 
+level one metabolite identification according to the Proposed Minimum Reporting 
+Standards for Chemical Analysis (Sumner et. al. 2007).
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 3.5.0)
