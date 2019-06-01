@@ -1,0 +1,274 @@
+﻿@article{RN6322,
+   author = {Alam, Naseer and Hong, Jongki and Lee, Chong-Ok and Choi, Jae Sue and Im, Kwang Sik and Jung, Jee H},
+   title = {Additional cytotoxic diacetylenes from the stony coral Montipora sp},
+   journal = {Chemical and pharmaceutical bulletin},
+   volume = {50},
+   number = {5},
+   pages = {661-662},
+   ISSN = {0009-2363},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN6297,
+   author = {Carignan, Mario O and Cardozo, Karina HM and Oliveira-Silva, Diogo and Colepicolo, Pio and Carreto, José I},
+   title = {Palythine–threonine, a major novel mycosporine-like amino acid (MAA) isolated from the hermatypic coral Pocillopora capitata},
+   journal = {Journal of Photochemistry and Photobiology B: Biology},
+   volume = {94},
+   number = {3},
+   pages = {191-200},
+   ISSN = {1011-1344},
+   url = {https://www-sciencedirect-com.elibrary.jcu.edu.au/science/article/pii/S1011134408002388?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb&ccp=y},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN6286,
+   author = {Dunlap, WC and Chalker, BE},
+   title = {Identification and quantitation of near-UV absorbing compounds (S-320) in a hermatypic scleractinian},
+   journal = {Coral Reefs},
+   volume = {5},
+   number = {3},
+   pages = {155-159},
+   ISSN = {0722-4028},
+   url = {https://link-springer-com.elibrary.jcu.edu.au/content/pdf/10.1007%2FBF00298182.pdf},
+   year = {1986},
+   type = {Journal Article}
+}
+
+@article{RN6194,
+   author = {Dunn, Simon R and Thomas, Michael C and Nette, Geoffrey W and Dove, Sophie G},
+   title = {A lipidomic approach to understanding free fatty acid lipogenesis derived from dissolved inorganic carbon within cnidarian-dinoflagellate symbiosis},
+   journal = {PloS one},
+   volume = {7},
+   number = {10},
+   pages = {e46801},
+   ISSN = {1932-6203},
+   url = {http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3480374/pdf/pone.0046801.pdf},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN6293,
+   author = {Fukatsu, Takuya and Onodera, Ken-ichi and Ohta, Yuichiro and Oba, Yuichi and Nakamura, Hideshi and Shintani, Tomoaki and Yoshioka, Yukio and Okamoto, Tetsuji and ten Lohuis, Michael and Miller, David J},
+   title = {Zooxanthellamide D, a polyhydroxy polyene amide from a marine dinoflagellate, and chemotaxonomic perspective of the Symbiodinium polyols},
+   journal = {Journal of natural products},
+   volume = {70},
+   number = {3},
+   pages = {407-411},
+   ISSN = {0163-3864},
+   url = {https://pubs.acs.org/doi/abs/10.1021/np060596p},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN6324,
+   author = {Fusetani, Nobuhiro and Toyoda, Takeo and Asai, Naoki and Matsunaga, Shigeki and Maruyama, Tadashi},
+   title = {Montiporic acids A and B, cytotoxic and antimicrobial polyacetylene carboxylic acids from eggs of the scleractinian coral Montipora digitata},
+   journal = {Journal of natural products},
+   volume = {59},
+   number = {8},
+   pages = {796-797},
+   ISSN = {0163-3864},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@article{RN6193,
+   author = {Garrett, Teresa A and Schmeitzel, John L and Klein, Joshua A and Hwang, Janice J and Schwarz, Jodi A},
+   title = {Comparative lipid profiling of the cnidarian Aiptasia pallida and its dinoflagellate symbiont},
+   journal = {PloS one},
+   volume = {8},
+   number = {3},
+   pages = {e57975},
+   ISSN = {1932-6203},
+   url = {http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3587569/pdf/pone.0057975.pdf},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN6266,
+   author = {Hillyer, Katie E and Dias, Daniel A and Lutz, Adrian and Roessner, Ute and Davy, Simon K},
+   title = {Mapping carbon fate during bleaching in a model cnidarian symbiosis: the application of 13C metabolomics},
+   journal = {New Phytologist},
+   volume = {214},
+   number = {4},
+   pages = {1551-1562},
+   ISSN = {1469-8137},
+   url = {http://onlinelibrary.wiley.com.elibrary.jcu.edu.au/store/10.1111/nph.14515/asset/nph14515.pdf?v=1&t=jdwj8u12&s=3c28e4546a9534d87f126429c4d78d010d8aca58},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN6301,
+   author = {Ingalls, Anitra E and Whitehead, Kenia and Bridoux, Maxime C},
+   title = {Tinted windows: The presence of the UV absorbing compounds called mycosporine-like amino acids embedded in the frustules of marine diatoms},
+   journal = {Geochimica et Cosmochimica Acta},
+   volume = {74},
+   number = {1},
+   pages = {104-115},
+   ISSN = {0016-7037},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN6307,
+   author = {Kita, Masaki and Ohishi, Nao and Konishi, Kaori and Kondo, Mikiko and Koyama, Tomoyuki and Kitamura, Makoto and Yamada, Kaoru and Uemura, Daisuke},
+   title = {Symbiodinolide, a novel polyol macrolide that activates N-type Ca2+ channel, from the symbiotic marine dinoflagellate Symbiodinium sp},
+   journal = {Tetrahedron},
+   volume = {63},
+   number = {27},
+   pages = {6241-6251},
+   ISSN = {0040-4020},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN6498,
+   author = {Lohr, Kathryn E and Khattri, Ram B and Guingab-Cagmat, Joy and Camp, Emma F and Merritt, Matthew E and Garrett, Timothy J and Patterson, Joshua T},
+   title = {Metabolomic profiles differ among unique genotypes of a threatened Caribbean coral},
+   journal = {Scientific reports},
+   volume = {9},
+   number = {1},
+   pages = {6067},
+   ISSN = {2045-2322},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN6289,
+   author = {Lutz, Adrian and Motti, Cherie A and Freckelton, Marnie L and van Oppen, Madeleine JH and Miller, David J and Dunlap, Walter C},
+   title = {Simultaneous determination of coenzyme Q and plastoquinone redox states in the coral–Symbiodinium symbiosis during thermally induced bleaching},
+   journal = {Journal of experimental marine biology and ecology},
+   volume = {455},
+   pages = {1-6},
+   ISSN = {0022-0981},
+   url = {https://ac-els-cdn-com.elibrary.jcu.edu.au/S0022098114000331/1-s2.0-S0022098114000331-main.pdf?_tid=5adce364-1aea-11e8-8eb9-00000aacb362&acdnat=1519645629_0b481453ae83a7ffc71d6c26d83aada4},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN6298,
+   author = {Roopin, Modi and Yacobi, Yosef Z and Levy, Oren},
+   title = {Occurrence, diel patterns, and the influence of melatonin on the photosynthetic performance of cultured Symbiodinium},
+   journal = {Journal of pineal research},
+   volume = {55},
+   number = {1},
+   pages = {89-100},
+   ISSN = {1600-079X},
+   url = {http://onlinelibrary.wiley.com.elibrary.jcu.edu.au/store/10.1111/jpi.12046/asset/jpi12046.pdf?v=1&t=je6frp1f&s=1a4bccaf58743cf11be6e75b3ad6e6c4bbc6fb5b},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN6290,
+   author = {Rosic, Nedeljka N and Braun, Christoph and Kvaskoff, David},
+   title = {Extraction and analysis of mycosporine-like amino acids in marine algae},
+   journal = {Natural Products From Marine Algae: Methods and Protocols},
+   pages = {119-129},
+   ISSN = {1493926837},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN6262,
+   author = {Sogin, Emilia M and Putnam, Hollie M and Anderson, Paul E and Gates, Ruth D},
+   title = {Metabolomic signatures of increases in temperature and ocean acidification from the reef-building coral, Pocillopora damicornis},
+   journal = {Metabolomics},
+   volume = {12},
+   number = {4},
+   pages = {71},
+   ISSN = {1573-3882},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN6302,
+   author = {Stochaj, WR and Dunlap, WC and Shick, JM},
+   title = {Two new UV-absorbing mycosporine-like amino acids from the sea anemoneAnthopleura elegantissima and the effects of zooxanthellae and spectral irradiance on chemical composition and content},
+   journal = {Marine Biology},
+   volume = {118},
+   number = {1},
+   pages = {149-156},
+   ISSN = {0025-3162},
+   url = {https://link-springer-com.elibrary.jcu.edu.au/content/pdf/10.1007%2FBF00699229.pdf},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{RN6299,
+   author = {Suzuki, Motoya and Watanabe, Kinzo and Fujiwara, Shoko and Kurasawa, Toshie and Wakabayashi, Takako and Tsuzuki, Mikio and Iguchi, Kazuo and Yamori, Takao},
+   title = {Isolation of peridinin-related norcarotenoids with cell growth-inhibitory activity from the cultured dinoflagellate of Symbiodinium sp., a symbiont of the Okinawan soft coral Clavularia viridis, and analysis of fatty acids of the dinoflagellate},
+   journal = {Chemical and pharmaceutical bulletin},
+   volume = {51},
+   number = {6},
+   pages = {724-727},
+   ISSN = {0009-2363},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN6295,
+   author = {Swan, Hilton B and Deschaseaux, Elisabeth SM and Jones, Graham B and Eyre, Bradley D},
+   title = {Quantification of dimethylsulfoniopropionate (DMSP) in Acropora spp. of reef-building coral using mass spectrometry with deuterated internal standard},
+   journal = {Analytical and bioanalytical chemistry},
+   volume = {409},
+   number = {7},
+   pages = {1929-1942},
+   ISSN = {1618-2642},
+   url = {https://link-springer-com.elibrary.jcu.edu.au/content/pdf/10.1007%2Fs00216-016-0141-5.pdf},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN6300,
+   author = {Takano, Satoshi and Uemura, Daisuke and Hirata, Yoshimasa},
+   title = {Isolation and structure of two new amino acids, palythinol and palythene, from the zoanthid Palythoa tubercolosa},
+   journal = {Tetrahedron Letters},
+   volume = {19},
+   number = {49},
+   pages = {4909-4912},
+   ISSN = {0040-4039},
+   year = {1978},
+   type = {Journal Article}
+}
+
+@article{RN6311,
+   author = {Tsunematsu, Yuta and Ohno, Osamu and Konishi, Kaori and Yamada, Kaoru and Suganuma, Masami and Uemura, Daisuke},
+   title = {Symbiospirols: novel long carbon-chain compounds isolated from symbiotic marine dinoflagellate Symbiodinium sp},
+   journal = {Organic letters},
+   volume = {11},
+   number = {10},
+   pages = {2153-2156},
+   ISSN = {1523-7060},
+   url = {https://pubs.acs.org/doi/abs/10.1021/ol900299x},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN6285,
+   author = {Venn, Alexander A and Wilson, Michael A and Trapido-Rosenthal, Henry G. and Keely, Brendan J and Douglas, Angela E},
+   title = {The impact of coral bleaching on the pigment profile of the symbiotic alga, Symbiodinium},
+   journal = {Plant, cell & environment},
+   volume = {29},
+   number = {12},
+   pages = {2133-2142},
+   ISSN = {1365-3040},
+   url = {http://onlinelibrary.wiley.com/store/10.1111/j.1365-3040.2006.001587.x/asset/j.1365-3040.2006.001587.x.pdf?v=1&t=jdza2u8z&s=6912aeb5b7b656e35eea64d6ecc9f297d9943d7a},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN6305,
+   author = {Won, Jane J Wu and Chalker, Bruce E and Rideout, John A},
+   title = {Two new UV-absorbing compounds from Stylophora pistillata: sulfate esters of mycosporine-like amino acids},
+   journal = {Tetrahedron letters},
+   volume = {38},
+   number = {14},
+   pages = {2525-2526},
+   ISSN = {0040-4039},
+   url = {https://www-sciencedirect-com.elibrary.jcu.edu.au/science/article/pii/S0040403997003912?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb&ccp=y},
+   year = {1997},
+   type = {Journal Article}
+}
+
