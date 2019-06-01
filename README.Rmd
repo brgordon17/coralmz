@@ -21,7 +21,7 @@ features were obtained from peer reviewed research articles (referenced within
 the table) and have at least a level one metabolite identification according to
 the Proposed Minimum Reporting Standards for Chemical Analysis [@RN3787].
 
-For more information about the package and its authors, please see the
+For more information about the package please see the
 package [DESCRIPTION](DESCRIPTION).
 
 ### Usage
