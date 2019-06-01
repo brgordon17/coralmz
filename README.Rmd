@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
-# coralmz
+# coralmz (In Development)
 Coralmz is an R package that contains a table of coral mass spectral features
 and a primitive function to search it. All features have been identified
 either in coral or closely related organisms such as their symbionts. All
