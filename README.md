@@ -1,8 +1,11 @@
-coralmz
-================
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-Coralmz is a simple R package that contains a database of coral mass spectral features published in the coral and natural products research literature. It contains the data as both a `.csv` file and an `.rda` file for easier loading a function to search the data. Coralmz was originally created by Benjamin R. Gordon with the assistance of Cherie Motti for use in his Ph.D thesis. All features have a minimum level one metabolite identification according to the Proposed Minimum Reporting Standards for Chemical Analysis (Sumner et. al. 2007).
+coralmz
+=======
+
+Coralmz is an R package that contains a table of coral mass spectral features and a primitive function to search it. All features have been identified either in coral or closely related organisms such as their symbionts. All features were obtained from peer reviewed research articles (referenced within the table) and have at least a level one metabolite identification according to the Proposed Minimum Reporting Standards for Chemical Analysis (Sumner et al. 2007).
+
+For more information about the package and its authors, please see the package [DESCRIPTION](DESCRIPTION).
 
 ### Usage
 
@@ -12,35 +15,18 @@ You can install this released version of coralmz as a package in R using the dev
 devtools::install_github("brgordon17/coralmz")
 ```
 
-Alternatively, the data can be downloaded as either a `.csv` file or a `.rda` file from from the `/data` directory [here](/data).
+Alternatively, the database can be downloaded as either a `.csv` file or a `.rda` file from from the `/data` directory [here](/data).
 
-### Contributing
+### How to Contribute
 
 If you would like to contribute to the database you can [open an issue](https://help.github.com/en/articles/creating-an-issue) and give me your suggestions. Alternatively, you can also [fork this repository](https://help.github.com/en/articles/fork-a-repo) and create a [pull request](https://help.github.com/en/articles/creating-a-pull-request).
 
-This is a basic example which shows you how to solve a common problem:
+### License
 
-``` r
-## basic example code
-```
+CC0 1.0 Universal
 
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
+For more information, please see the [LICENSE](LICENSE.md) file.
 
-``` r
-summary(cars)
-#>      speed           dist       
-#>  Min.   : 4.0   Min.   :  2.00  
-#>  1st Qu.:12.0   1st Qu.: 26.00  
-#>  Median :15.0   Median : 36.00  
-#>  Mean   :15.4   Mean   : 42.98  
-#>  3rd Qu.:19.0   3rd Qu.: 56.00  
-#>  Max.   :25.0   Max.   :120.00
-```
+### References
 
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
-You can also embed plots, for example:
-
-<img src="man/figures/README-pressure-1.png" width="100%" />
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub!
+Sumner, L. W., A. Amberg, D. Barrett, M. H. Beale, R. Beger, C. A. Daykin, T. W. M. Fan, et al. 2007. “Proposed Minimum Reporting Standards for Chemical Analysis.” Journal Article. *Metabolomics* 3 (3): 211–21. doi:[10.1007/s11306-007-0082-2](https://doi.org/10.1007/s11306-007-0082-2).

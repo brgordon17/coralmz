@@ -1,6 +1,6 @@
 ---
-title: "coralmz"
 output: github_document
+bibliography: README-references.bib
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -13,15 +13,16 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
+# coralmz
+Coralmz is an R package that contains a table of coral mass spectral features
+and a primitive function to search it. All features have been identified
+either in coral or closely related organisms such as their symbionts. All
+features were obtained from peer reviewed research articles (referenced within
+the table) and have at least a level one metabolite identification according to
+the Proposed Minimum Reporting Standards for Chemical Analysis [@RN3787].
 
-Coralmz is a simple R package that contains a database of coral mass spectral 
-features published in the coral and natural products research literature. It
-contains the data as both a `.csv` file and an `.rda` file for easier loading a
-function to search the data. Coralmz was originally created by 
-Benjamin R. Gordon with the assistance of Cherie Motti for use in his Ph.D 
-thesis. All features have a minimum level one metabolite identification 
-according to the Proposed Minimum Reporting Standards for Chemical Analysis 
-(Sumner et. al. 2007).
+For more information about the package and its authors, please see the
+package [DESCRIPTION](DESCRIPTION).
 
 ### Usage
 
@@ -32,34 +33,19 @@ devtools package:
 devtools::install_github("brgordon17/coralmz")
 ```
 
-Alternatively, the data can be downloaded as either a `.csv` file or a `.rda` 
+Alternatively, the database can be downloaded as either a `.csv` file or a `.rda` 
 file from from the `/data` directory [here](/data).
 
-### Contributing
+### How to Contribute
 If you would like to contribute to the database you can [open an issue](https://help.github.com/en/articles/creating-an-issue)
 and give me your suggestions. Alternatively, you can also 
 [fork this repository](https://help.github.com/en/articles/fork-a-repo)
 and create a 
 [pull request](https://help.github.com/en/articles/creating-a-pull-request).
 
-This is a basic example which shows you how to solve a common problem:
+### License
+CC0 1.0 Universal
 
-```{r example}
-## basic example code
-```
+For more information, please see the [LICENSE](LICENSE.md) file.
 
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
-
-```{r cars}
-summary(cars)
-```
-
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub!
+### References
