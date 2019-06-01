@@ -13,5 +13,4 @@ Description: This package contains a database of coral mass spectral features
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Depends:
-    R (>= 3.5.0)
+Depends: R (>= 3.5.0)
