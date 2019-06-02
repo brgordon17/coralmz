@@ -16,4 +16,6 @@ LazyData: true
 Depends: R (>= 3.5.0)
 Imports:
     magrittr,
-    dplyr
+    dplyr,
+    readr
+RoxygenNote: 6.1.1
