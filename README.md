@@ -15,7 +15,7 @@ You can install this released version of coralmz as a package in R using the dev
 devtools::install_github("brgordon17/coralmz")
 ```
 
-Alternatively, the database can be downloaded as either a `.csv` file or a `.rda` file from from the `/data` directory [here](/data).
+Alternatively, the table can be downloaded as either a `.csv` file or an `.rda` file from from the `/data` directory [here](/data).
 
 ### How to Contribute
 

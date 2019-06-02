@@ -32,7 +32,7 @@ devtools package:
 devtools::install_github("brgordon17/coralmz")
 ```
 
-Alternatively, the database can be downloaded as either a `.csv` file or a `.rda` 
+Alternatively, the table can be downloaded as either a `.csv` file or an `.rda` 
 file from from the `/data` directory [here](/data).
 
 ### How to Contribute
