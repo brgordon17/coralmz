@@ -1,6 +1,5 @@
 ---
 output: github_document
-bibliography: README-references.bib
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -19,7 +18,7 @@ and a primitive function to search it. All features have been identified
 either in coral or closely related organisms such as their symbionts. All
 features were obtained from peer reviewed research articles (referenced within
 the table) and have at least a level one metabolite identification according to
-the Proposed Minimum Reporting Standards for Chemical Analysis [@RN3787].
+the Proposed Minimum Reporting Standards for Chemical Analysis (Sumner et al. 2007).
 
 For more information about the package please see the
 package [DESCRIPTION](DESCRIPTION).
@@ -37,15 +36,14 @@ Alternatively, the database can be downloaded as either a `.csv` file or a `.rda
 file from from the `/data` directory [here](/data).
 
 ### How to Contribute
-If you would like to contribute to the database you can [open an issue](https://help.github.com/en/articles/creating-an-issue)
-and give me your suggestions. Alternatively, you can also 
+If you are a GitHub user and would like to contribute to the database you can 
+[open an issue](https://help.github.com/en/articles/creating-an-issue)
+and give me your suggestions, or 
 [fork this repository](https://help.github.com/en/articles/fork-a-repo)
 and create a 
-[pull request](https://help.github.com/en/articles/creating-a-pull-request).
+[pull request](https://help.github.com/en/articles/creating-a-pull-request). Alternatively, I can be contacted at brgordon17@gmail.com.
 
 ### License
 CC0 1.0 Universal
 
 For more information, please see the [LICENSE](LICENSE.md) file.
-
-### References

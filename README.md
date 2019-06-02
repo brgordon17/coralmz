@@ -19,14 +19,10 @@ Alternatively, the database can be downloaded as either a `.csv` file or a `.rda
 
 ### How to Contribute
 
-If you would like to contribute to the database you can [open an issue](https://help.github.com/en/articles/creating-an-issue) and give me your suggestions. Alternatively, you can also [fork this repository](https://help.github.com/en/articles/fork-a-repo) and create a [pull request](https://help.github.com/en/articles/creating-a-pull-request).
+If you are a GitHub user and would like to contribute to the database you can [open an issue](https://help.github.com/en/articles/creating-an-issue) and give me your suggestions, or [fork this repository](https://help.github.com/en/articles/fork-a-repo) and create a [pull request](https://help.github.com/en/articles/creating-a-pull-request). Alternatively, I can be contacted at <brgordon17@gmail.com>.
 
 ### License
 
 CC0 1.0 Universal
 
 For more information, please see the [LICENSE](LICENSE.md) file.
-
-### References
-
-Sumner, L. W., A. Amberg, D. Barrett, M. H. Beale, R. Beger, C. A. Daykin, T. W. M. Fan, et al. 2007. “Proposed Minimum Reporting Standards for Chemical Analysis.” Journal Article. *Metabolomics* 3 (3): 211–21. doi:[10.1007/s11306-007-0082-2](https://doi.org/10.1007/s11306-007-0082-2).
