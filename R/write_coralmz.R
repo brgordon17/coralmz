@@ -2,7 +2,7 @@
 #'
 #' Converts \code{./data/coralmz.csv} to an \code{.rda} file
 #'
-#' \code{create_coralmz()} loads \code{coralmz.csv}, cleans up the
+#' \code{write_coralmz()} loads \code{coralmz.csv}, cleans up the
 #' headers and saves \code{coralmz.rda} to the \code{./data} directory.
 #'
 #' @param save.rda Logical indicating if an .rda file should be saved to
@@ -15,7 +15,7 @@
 #' @export
 #'
 # Load literature variables and clean up ---------------------------------------
-create_coralmz <- function(save.rda = FALSE) {
+write_coralmz <- function(save.rda = FALSE) {
 
   coralmz <- readr::read_csv("./data/coralmz.csv", col_names = TRUE)
   coralmz <- coralmz %>%
