@@ -1,7 +1,6 @@
 ---
 output: github_document
 ---
-https://img.shields.io/badge/license-CC0-blue.svg,https://choosealicense.com/licenses/cc0-1.0/
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
