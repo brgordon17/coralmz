@@ -10,7 +10,7 @@ Description: This package contains a database of coral mass spectral features
     developed for Benjamin R. Gordon's Ph.D. thesis. All features have a minimum 
     level one metabolite identification according to the Proposed Minimum Reporting 
     Standards for Chemical Analysis (Sumner et. al. 2007).
-License: CC0
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 3.5.0)
