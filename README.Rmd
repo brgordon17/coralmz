@@ -44,6 +44,6 @@ and create a
 [pull request](https://help.github.com/en/articles/creating-a-pull-request). Alternatively, I can be contacted at brgordon17@gmail.com.
 
 ### License
-CC0 1.0 Universal
+Creative Commons Attribution 4.0 International Public License
 
 For more information, please see the [LICENSE](LICENSE.md) file.
