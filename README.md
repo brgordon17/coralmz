@@ -1,7 +1,13 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# coralmz (In Development)
+# coralmz
+
+<!-- badges: start -->
+
+[![License: CC
+BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+<!-- badges: end -->
 
 Coralmz is an R package that contains a table of coral mass spectral
 features and a primitive function to search it. All features have been
@@ -24,7 +30,7 @@ devtools::install_github("brgordon17/coralmz")
 ```
 
 Alternatively, the table can be downloaded as either a `.csv` file or an
-`.rda` file from from the `/data` directory [here](/data).
+`.rda` file from from the `data/` directory [here](data/).
 
 ### How to Contribute
 
