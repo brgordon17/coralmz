@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 # coralmz
 
 <!-- badges: start -->
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- badges: end -->
 
 Coralmz is an R package that contains a table of coral mass spectral features.
@@ -46,6 +46,6 @@ and create a
 [pull request](https://help.github.com/en/articles/creating-a-pull-request). Alternatively, I can be contacted at brgordon17@gmail.com.
 
 ### License
-Creative Commons Attribution 4.0 International Public License
+MIT License. Copyright (c) 2020 Benjamin R. Gordon
 
 For more information, please see the [LICENSE](LICENSE.md) file.
