@@ -10,12 +10,12 @@ BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https
 <!-- badges: end -->
 
 Coralmz is an R package that contains a table of coral mass spectral
-features and a primitive function to search it. All features have been
-identified either in coral or closely related organisms such as their
-symbionts. All features were obtained from peer reviewed research
-articles (referenced within the table) and have, as a minimum, a level 1
-metabolite identification according to the Proposed Minimum Reporting
-Standards for Chemical Analysis (Sumner et al. 2007).
+features. All features have been identified either in coral or closely
+related organisms such as their symbionts. All features were obtained
+from peer reviewed research articles (referenced within the table) and
+have, as a minimum, a level 1 metabolite identification according to the
+Proposed Minimum Reporting Standards for Chemical Analysis (Sumner et
+al. 2007).
 
 For more information about the package please see the package
 [DESCRIPTION](DESCRIPTION).
