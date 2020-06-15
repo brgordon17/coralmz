@@ -1,0 +1,19 @@
+{
+    "description": "<p>An R package that contains a table of coral mass spectral features. All features have been identified either in coral or closely related organisms such as their symbionts. All features were obtained from peer reviewed research articles (referenced within the table) and have, as a minimum, a level 1 metabolite identification according to the Proposed Minimum Reporting Standards for Chemical Analysis (Sumner et al. 2007).</p>", 
+    "license": "MIT",
+    "title": "coralmz: Coral Mass Spectral Features",
+    "upload_type": "software",
+    "keywords": [
+        "coral",
+        "metabolomics",
+        "mass spectrometry",
+        "R"
+    ],
+    "creators": [
+        {
+            "name": "Benjamin R. Gordon",
+            "orcid": "0000-0002-2979-1964"
+        }
+    ],
+    "access_right": "open",
+}
