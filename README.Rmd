@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3894205.svg)](https://doi.org/10.5281/zenodo.3894205)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3953883.svg)](https://doi.org/10.5281/zenodo.3953883)
 <!-- badges: end -->
 
 Coralmz is an R package that is a collection of coral mass spectral features.
